@@ -71,5 +71,10 @@ namespace ex1d1
                 Convert.ToDecimal(txtUSDJapan.Text) + Convert.ToDecimal(txtUSDUK.Text)
                 ).ToString("0.00");
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
