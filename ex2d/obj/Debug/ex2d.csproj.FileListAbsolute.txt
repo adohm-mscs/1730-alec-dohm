@@ -1,0 +1,10 @@
+C:\Users\acama\source\repos\1730-alec-dohm\ex2d\bin\Debug\ex2d.exe.config
+C:\Users\acama\source\repos\1730-alec-dohm\ex2d\bin\Debug\ex2d.exe
+C:\Users\acama\source\repos\1730-alec-dohm\ex2d\bin\Debug\ex2d.pdb
+C:\Users\acama\source\repos\1730-alec-dohm\ex2d\obj\Debug\ex2d.csproj.AssemblyReference.cache
+C:\Users\acama\source\repos\1730-alec-dohm\ex2d\obj\Debug\ex2d.Form1.resources
+C:\Users\acama\source\repos\1730-alec-dohm\ex2d\obj\Debug\ex2d.Properties.Resources.resources
+C:\Users\acama\source\repos\1730-alec-dohm\ex2d\obj\Debug\ex2d.csproj.GenerateResource.cache
+C:\Users\acama\source\repos\1730-alec-dohm\ex2d\obj\Debug\ex2d.csproj.CoreCompileInputs.cache
+C:\Users\acama\source\repos\1730-alec-dohm\ex2d\obj\Debug\ex2d.exe
+C:\Users\acama\source\repos\1730-alec-dohm\ex2d\obj\Debug\ex2d.pdb
