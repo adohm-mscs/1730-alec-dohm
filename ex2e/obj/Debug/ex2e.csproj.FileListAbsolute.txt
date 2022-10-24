@@ -1,0 +1,10 @@
+C:\Users\acama\Source\Repos\ex2e\ex2e\bin\Debug\ex2e.exe.config
+C:\Users\acama\Source\Repos\ex2e\ex2e\bin\Debug\ex2e.exe
+C:\Users\acama\Source\Repos\ex2e\ex2e\bin\Debug\ex2e.pdb
+C:\Users\acama\Source\Repos\ex2e\ex2e\obj\Debug\ex2e.csproj.AssemblyReference.cache
+C:\Users\acama\Source\Repos\ex2e\ex2e\obj\Debug\ex2e.Form1.resources
+C:\Users\acama\Source\Repos\ex2e\ex2e\obj\Debug\ex2e.Properties.Resources.resources
+C:\Users\acama\Source\Repos\ex2e\ex2e\obj\Debug\ex2e.csproj.GenerateResource.cache
+C:\Users\acama\Source\Repos\ex2e\ex2e\obj\Debug\ex2e.csproj.CoreCompileInputs.cache
+C:\Users\acama\Source\Repos\ex2e\ex2e\obj\Debug\ex2e.exe
+C:\Users\acama\Source\Repos\ex2e\ex2e\obj\Debug\ex2e.pdb
